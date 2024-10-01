@@ -1,0 +1,42 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.red{
+    width: 470px;
+    height: 600px;
+    background-color: red;
+}
+.blue{
+    width: 470px;
+    height: 200px;
+    background-color: blue;
+}
+.box{
+    width: 1400px;
+    height: 800px;
+    background-color: black;
+    display: flex;
+    float: left;
+}
+.green{
+    width: 930px;
+    height: 200px;
+    background-color: green;
+   
+}
+.orange{
+    width: 600px;
+    height: 600px;
+    background-color: orange;
+    
+}
+.r_up{
+    width: 930px;
+    height: 200px;
+}
